@@ -1,1 +1,1 @@
-#  Patika.dev | Javascript Odev3 (Asian Kitchen)
+# First Javascript homework (Asian Kitchen) within the scope of Patika
